@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
         <h1>Shaumik</h1>
-      <button className='btn btn-danger'>Test</button>
+      <button className='btn btn-warning'>Any Test</button>
     </div>
   );
 }
